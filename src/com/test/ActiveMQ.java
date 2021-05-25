@@ -16,6 +16,8 @@ public class ActiveMQ {
 
 
 
+
+
     public static void main(String[] args) {
 
         ////连接工厂
